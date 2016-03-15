@@ -1,0 +1,15 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'Firebase Database' do
+	pod 'Firebase'
+end
+
+target 'Firebase DatabaseTests' do
+
+end
+
+target 'Firebase DatabaseUITests' do
+
+end
+
